@@ -72,7 +72,7 @@ Una guía paso a paso sobre cómo publicar tu propia librería de Python.
 Operaciones avanzadas y configuración de entornos para el desarrollo Odoo/Python (por ejemplo, usando VSCode o la shell de la CLI de Odoo).
 
 - Proyectos de Código Abierto (GitHub)
-Contribuyo código a través de repositorios públicos en mi perfil de GitHub, demostrando la apl.icación práctica de Python:
+Contribuyo código a través de repositorios públicos en mi perfil de GitHub, demostrando la aplicación práctica de Python:
 
 API de Tasa de Cambio BCV (bcv-api): Un proyecto de API pública escrito en Python para recuperar la tasa de cambio del Banco Central de Venezuela (BCV).
 
