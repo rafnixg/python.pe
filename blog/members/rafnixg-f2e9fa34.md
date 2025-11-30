@@ -2,23 +2,23 @@
 blogpost: true
 date: 29 Nov, 2025
 author: rafnixg
-location: 
+location: Lima, Perú
 category: members
 language: Español
 image: 1
 excerpt: 1
 ---
 
-# 
+# Rafnix Guzman
 
-```{gravatar} 
+```{gravatar} rafnixg@gmail.com
 ---
 width: 200
 class: "member-gravatar"
 ---
 ```
 
-```{{raw}} html
+```{raw} html
 <ul class="social-media profile">
     <li>
         <a class="external reference" href="https://github.com/rafnixg">
