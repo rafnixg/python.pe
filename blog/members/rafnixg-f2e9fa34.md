@@ -39,47 +39,47 @@ class: "member-gravatar"
 
 ### ¿Quién eres y a qué te dedicas?
 
-A experienced software developer with 10+ years of expertise in designing, developing and implementing web systems across various sectors. Backend specialist skilled in Python, Linux, and Git.
+Un desarrollador de software con experiencia de más de 15 años en el diseño, desarrollo e implementación de sistemas web en diversos sectores. Especialista en backend con dominio de Python, Linux y Git.
 
 ### ¿Cómo programas en Python?
 
-Backend Development: Building business logic, databases, and APIs (Application Programming Interfaces) for web systems.
+Desarrollo Backend: Construcción de la lógica de negocio, bases de datos y APIs (Interfaces de Programación de Aplicaciones) para sistemas web.
 
-API Development: You have designed and developed APIs using frameworks like FastAPI, implementing authentication and authorization mechanisms.
+Desarrollo de APIs: Has diseñado y desarrollado APIs utilizando frameworks como FastAPI, implementando mecanismos de autenticación y autorización.
 
-Odoo Development: You have extensive experience as an Odoo Developer, which involves the expansion and optimization of modules in this ERP, which is based on Python.
+Desarrollo Odoo: Cuentas con una amplia experiencia como Desarrollador Odoo, lo que implica la expansión y optimización de módulos en este ERP, el cual está basado en Python.
 
-Automation and Migration: You have worked on the migration of legacy automatisms to Python, utilizing libraries such as Pandas.
+Automatización y Migración: Has trabajado en la migración de automatismos heredados (legacy) a Python, utilizando librerías como Pandas.
 
-DevOps and Deployment: You collaborate in the implementation of CI/CD pipelines and utilize tools like Docker and AWS to ensure the correct functioning and availability of applications.
+DevOps y Despliegue: Colaboras en la implementación de pipelines de CI/CD (Integración y Despliegue Continuos) y utilizas herramientas como Docker y AWS para asegurar el correcto funcionamiento y la disponibilidad de las aplicaciones.
 
 ### ¿Tienes algún aporte a la comunidad de Python?
 
-1. 📢 Promoter of Free and Open-Source Software (FOSS)
-I am deeply committed to using and promoting free and open-source technologies. I actively advocate for the adoption of FOSS—especially Python-based solutions like Odoo—in the organizations I work with. My philosophy is to share knowledge and rely on open-source tools to build robust systems.
+- Promotor de Software Libre y de Código Abierto (FOSS)
+Estoy profundamente comprometido con el uso y la promoción de tecnologías libres y de código abierto. Abogo activamente por la adopción de FOSS —especialmente soluciones basadas en Python como Odoo— en las organizaciones con las que trabajo. Mi filosofía es compartir conocimientos y depender de herramientas de código abierto para construir sistemas robustos.
 
-2. 🧠 Knowledge Sharing and Mentoring
-I contribute by investing in future talent and sharing expertise:
+- Compartición de Conocimiento y Mentoría
+Contribuyo invirtiendo en el talento futuro y compartiendo experiencia:
 
-Mentoring: As a Senior Python/Odoo Developer, I provided technical mentoring and training to Junior and Trainee team members, directly helping to develop skills within the Python/Odoo ecosystem.
+Mentoría: Como Desarrollador Senior Python/Odoo, he proporcionado mentoría técnica y capacitación a miembros del equipo Junior y Trainee, ayudando directamente a desarrollar habilidades dentro del ecosistema Python/Odoo.
 
-Technical Writing: I contribute valuable documentation and tutorials, such as blog posts detailing:
+Redacción Técnica: Contribuyo con documentación y tutoriales valiosos, como publicaciones de blog que detallan:
 
-How to automate Python package libraries on PyPI using GitHub Actions.
+Cómo automatizar librerías de paquetes de Python en PyPI utilizando GitHub Actions.
 
-A step-by-step guide on publishing your own Python library.
+Una guía paso a paso sobre cómo publicar tu propia librería de Python.
 
-Advanced operations and environment configuration for Odoo/Python development (e.g., using VSCode or the Odoo CLI shell).
+Operaciones avanzadas y configuración de entornos para el desarrollo Odoo/Python (por ejemplo, usando VSCode o la shell de la CLI de Odoo).
 
-3. 🛠️ Open-Source Projects (GitHub)
-I contribute code through public repositories on my GitHub profile, demonstrating practical application of Python:
+- Proyectos de Código Abierto (GitHub)
+Contribuyo código a través de repositorios públicos en mi perfil de GitHub, demostrando la apl.icación práctica de Python:
 
-BCV Exchange Rate API (bcv-api): A public API project written in Python to retrieve the exchange rate from the Central Bank of Venezuela (BCV).
+API de Tasa de Cambio BCV (bcv-api): Un proyecto de API pública escrito en Python para recuperar la tasa de cambio del Banco Central de Venezuela (BCV).
 
-Personal Utility Projects: Includes various small projects utilizing Python, such as the implementation of a basic HTTP server, showcasing foundational programming skills.
+Proyectos de Utilidad Personal: Incluye varios proyectos pequeños que utilizan Python, como la implementación de un servidor HTTP básico, demostrando habilidades de programación fundamentales.
 
-Odoo Development Environments: I provide publicly available configurations to help other developers set up and streamline their Odoo development environments using tools like VSCode.
+Entornos de Desarrollo Odoo: Proporciono configuraciones disponibles públicamente para ayudar a otros desarrolladores a configurar y optimizar sus entornos de desarrollo Odoo utilizando herramientas como VSCode.
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
-Yes, I am open to discussing opportunities for mentoring, consulting, and technical talks, especially in areas related to Backend Python Development, Odoo ERP, and DevOps practices.
+Sí, estoy abierto a discutir oportunidades para mentoría, consultoría y charlas técnicas, especialmente en áreas relacionadas con Desarrollo Backend en Python, el ERP Odoo y prácticas de DevOps.
